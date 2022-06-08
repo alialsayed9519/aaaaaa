@@ -18,9 +18,9 @@ class ViewController: UIViewController {
         print("aaaaaaa")
         print("bbbbbbb")
         print("bbbbbbb")
-        print("bbbbbbb")
-        print("bbbbbbb")
-        print("bbbbbbb")
+        print("aaaaaaa")
+        print("aaaaaaaa")
+        print("as")
         
         
     }
