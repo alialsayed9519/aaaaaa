@@ -14,12 +14,13 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         
+        print("aaaaaabbbbbbbbbaa")
         print("aaaaaaa")
-        print("aaaaaaa")
-     //   print("aaaaaaa")
-     //   print("aaaaaaa")
-     //   print("aaaaaaa")
-        
+        print("bbbbbbb")
+        print("bbbbbbb")
+        print("bbbbbbb")
+        print("bbbbbbb")
+        print("bbbbbbb")
         
         
     }
